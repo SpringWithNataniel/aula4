@@ -1,9 +1,10 @@
-# Aula 3
+# Aula 4
 
-* Introdução ao MongoDB
-* Criar uma conexão com o MongoDB
-* Spring Data Repositories
-* @Document
+* Um pouco mais de MongoDB
+* CRUD completo em poucos minutos
+* @DBRef
+* Criar outra Collections
+
 
 Links úteis
 ---
