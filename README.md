@@ -2,8 +2,10 @@
 
 * Um pouco mais de MongoDB
 * CRUD completo em poucos minutos
-* @DBRef
-* Criar outra Collections
+* Verbos HTTP(GET, POST, PUT e DELETE)
+* Parâmetros
+* Repositories
+
 
 
 Links úteis
